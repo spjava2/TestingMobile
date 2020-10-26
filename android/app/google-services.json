@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522245372862",
+    "firebase_url": "https://eshop-de03e.firebaseio.com",
+    "project_id": "eshop-de03e",
+    "storage_bucket": "eshop-de03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522245372862:android:b4753ba7d250fcefe3d7ef",
+        "android_client_info": {
+          "package_name": "com.suresh.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522245372862-fbkm1bd2ovagl4u8p9p90ikhictrmjnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lIM78vmH843Yle8lTG3V6xr7nFa9-fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522245372862-fbkm1bd2ovagl4u8p9p90ikhictrmjnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
